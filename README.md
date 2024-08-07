@@ -1,5 +1,3 @@
-# progetto di Laboratorio di web scraping
-## link utili
-[link al dataset](https://drive.google.com/file/d/1q-nmPc3VGdiP4e3Qa83ShMJ7qlpF78Fy/view)
+# LWS project
 
-[link al testo del progetto](ProgettoWebscraping2223-1.pdf)
+Questo è un progetto che ho sviluppato per il mio corso di laboratorio di Web Scraping all'università. L'obiettivo era raccogliere dati anonimi sulle transazioni degli utenti da siti di monitoraggio della blockchain e utilizzare un algoritmo di clustering per analizzare gli indirizzi coinvolti e determinare se appartengono a un singolo profilo o meno.
